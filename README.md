@@ -1,2 +1,2 @@
 # Client-Server-File-Transfer-Application
-Cleint Server file transfer application (port to port transfer) using C
+Created an aaplication using UNIX and C which sends files for one port to another port implemneting various Socket programming algorithms
